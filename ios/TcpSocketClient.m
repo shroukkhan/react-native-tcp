@@ -7,7 +7,7 @@
 #import <arpa/inet.h>
 #import "TcpSocketClient.h"
 
-#import <React/RCTLog.h>
+#import "RCTLog.h"
 
 NSString *const RCTTCPErrorDomain = @"RCTTCPErrorDomain";
 
